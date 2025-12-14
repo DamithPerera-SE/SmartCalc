@@ -1,0 +1,17 @@
+# Scientific Java Swing Calculator Project Requirements
+
+# Java Development Kit
+JDK >= 8
+
+# Libraries
+- Java Swing (built-in)
+- java.awt (built-in)
+- java.util (built-in)
+
+# Hardware
+- CPU: 1 GHz+
+- RAM: 512 MB+
+- Display: 1024x768+
+
+# OS
+- Windows / Linux / macOS
